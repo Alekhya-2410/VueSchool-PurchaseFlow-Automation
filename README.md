@@ -24,9 +24,9 @@ If you want to learn more about creating good readme files then refer the follow
   - 1.dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI
     - https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Installing-the-command-line-tool.html
 
-  - 2.CD C:\Automation\EngageAutomation\bin\Debug\net6.0
+  - 2.CD C:\VueSchool-PurchaseFlow-Automation\VueSchoolAutomationFramework\bin\Debug\net6.0
 
-  - 3.livingdoc test-assembly EngageAutomation.dll -t TestExecution.json
+  - 3.livingdoc test-assembly VueSchoolAutomationFramework.dll -t TestExecution.json
 
   
    
